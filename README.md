@@ -1,4 +1,4 @@
-# [programmermemes.dhguo.dev](https://programmermemes.dhguo.dev/)
+# [programmer-memes.dhguo.dev](https://programmer-memes.dhguo.dev/)
 
 # Programmer Memes
 
@@ -8,7 +8,7 @@ Programmer Memes is a community board web app where users can share and discuss 
 
 ## Table of Contents
 
-- [programmermemes.dhguo.dev](#programmermemesdhguodev)
+- [programmer-memes.dhguo.dev](#programmermemesdhguodev)
 - [Programmer Memes](#programmer-memes)
   - [Table of Contents](#table-of-contents)
   - [Features](#features)
